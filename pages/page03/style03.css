@@ -1,0 +1,207 @@
+body{
+    margin-top: 0;
+    margin-left: auto;
+}
+.LoginAluno{
+    width: 100%; 
+    height: 1024px;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+}
+.retangulo {
+    width: 100%; 
+    height: 120px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute;
+    background-color:#008565;
+}
+h1{
+    width: 555px; 
+    height: 75px; 
+    left: 20rem; 
+    top: 0.1rem; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 48px; 
+    font-family:'Alata', sans-serif; 
+    font-weight: 400; 
+}
+.EntrarComoProfessor{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    right: -3rem;   
+    font-family: 'Alata', sans-serif; 
+    top: 2rem;            
+    width: 327px;   
+    position: absolute; 
+    text-align: center; 
+    font-size: 24px;
+}
+.retangulo2{
+    width: 229px; 
+    height: 120px; 
+    right: 0%; 
+    top: 0px; 
+    position: absolute; 
+    background: #A86767;
+}
+.card{
+    width: 43rem; 
+    height: 30rem; 
+    left: 0; 
+    top: 7.5rem; 
+    position: absolute;  
+    background-color: rgb(255, 255, 255); 
+    font-family: 'Alata', sans-serif; 
+    display: block;
+}
+h3{
+    width: 43rem;   
+    text-align: center; 
+    color: #333333; 
+    font-size: 40px; 
+    font-family: 'Alata', sans-serif; 
+    font-weight: 400;
+    margin-top: 1rem;
+}
+#cadastroNome{  
+    left: 1rem; 
+    margin-top: -2rem; 
+    position: absolute;
+    color:#333333; 
+    font-size: 17px; 
+    font-family: 'Alata', sans-serif;
+}
+#nome{
+    width: 35rem; 
+    height: 2rem; 
+    left: 1rem; 
+    top: 6.5rem; 
+    position: absolute;
+    background-color: rgba(113, 116, 116, 0.377);
+    border: none;
+}
+#DataNasc{  
+    left: 1rem; 
+    margin-top: 2rem; 
+    position: absolute;
+    color:#333333; 
+    font-size: 17px; 
+    font-family: 'Alata', sans-serif;
+}
+#dtNasc{
+    width: 35rem; 
+    height: 2rem; 
+    left: 1rem; 
+    top: 10.5rem; 
+    position: absolute;
+    background-color: rgba(113, 116, 116, 0.377);
+    border: none;
+}
+#cadastroEmail{  
+    left: 1rem; 
+    margin-top:6rem; 
+    position: absolute;
+    color:#333333; 
+    font-size: 17px; 
+    font-family: 'Alata', sans-serif;
+}
+#formEmail{
+    width: 35rem; 
+    height: 2rem; 
+    left: 1rem; 
+    top: 14.5rem; 
+    position: absolute;
+    background-color: rgba(113, 116, 116, 0.377);
+    border: none;
+}
+#CPF{  
+    left: 1rem; 
+    margin-top:10rem; 
+    position: absolute;
+    color:#333333; 
+    font-size: 17px; 
+    font-family: 'Alata', sans-serif;
+}
+#cpf{
+    width: 35rem; 
+    height: 2rem; 
+    left: 1rem; 
+    top: 18.5rem; 
+    position: absolute;
+    background-color: rgba(113, 116, 116, 0.377);
+    border: none;
+}
+#RG{  
+    left: 1rem; 
+    margin-top:14rem; 
+    position: absolute;
+    color:#333333; 
+    font-size: 17px; 
+    font-family: 'Alata', sans-serif;
+}
+#rg{
+    width: 35rem; 
+    height: 2rem; 
+    left: 1rem; 
+    top: 22.5rem; 
+    position: absolute;
+    background-color: rgba(113, 116, 116, 0.377);
+    border: none;
+}
+#Matricula{  
+    left: 1rem; 
+    margin-top:18rem; 
+    position: absolute;
+    color:#333333; 
+    font-size: 17px; 
+    font-family: 'Alata', sans-serif;
+}
+#matricula{
+    width: 35rem; 
+    height: 2rem; 
+    left: 1rem; 
+    top: 26.5rem; 
+    position: absolute;
+    background-color: rgba(113, 116, 116, 0.377);
+    border: none;
+}
+.card2{
+    width: 37rem; 
+    height: 30rem; 
+    right: 0rem; 
+    top: 7.5rem; 
+    position: absolute;
+    background-color:rgb(255, 255, 255)lue;
+}
+#Cadastrar{
+    color:white;
+    background-color: #008565;
+    width: 15rem;
+    height: 2rem;
+    border: none;
+    font-family: 'Alata', sans-serif; 
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    display: block;
+    margin-top: 14rem;
+    margin-left: 12rem;
+}
+#RetornarLogin{
+    text-decoration: none;
+    color: #333333;
+    justify-content: center;
+    font-family: 'Alata', sans-serif;
+    display: flex;
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
+footer{
+    font-family: 'Alata', sans-serif; 
+    font-size: 12px;
+    margin-top: 38rem;
+    text-align: center;
+}

@@ -1,0 +1,171 @@
+
+/*Login aluno*/
+body{
+    margin-top: 0;
+    margin-left: auto;
+}
+.LoginAluno{
+    width: 100%; 
+    height: 1024px;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+}
+.retangulo {
+    width: 100%; 
+    height: 120px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute;
+    background-color:#008565;
+}
+h1{
+    width: 555px; 
+    height: 75px; 
+    left: 20rem; 
+    top: 0.1rem; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 48px; 
+    font-family:'Alata', sans-serif; 
+    font-weight: 400; 
+}
+#logo{
+    width: 90px; 
+    height: 90px; 
+    left: 1rem; 
+    top: 20px; 
+    position: absolute;
+}
+.EntrarComoProfessor{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    right: -3rem;   
+    font-family: 'Alata', sans-serif; 
+    top: 2rem;            
+    width: 327px;   
+    position: absolute; 
+    text-align: center; 
+    font-size: 24px;
+}
+.retangulo2{
+    width: 229px; 
+    height: 120px; 
+    right: 0%; 
+    top: 0px; 
+    position: absolute; 
+    background: #A86767;
+}
+#mulher{
+    width: 37rem; 
+    height: 30rem; 
+    right: 0rem; 
+    top: 7.5rem; 
+    position: absolute;
+}
+
+.card{
+    width: 43rem; 
+    height: 18rem; 
+    left: 0; 
+    top: 7.5rem; 
+    position: absolute;  
+    background-color: rgb(255, 255, 255); 
+    font-family: 'Alata', sans-serif; 
+    display: block;
+}
+.card h3{
+    width: 43rem;   
+    margin-top: 0; 
+    position: absolute; 
+    text-align: center; 
+    color: #333333; 
+    font-size: 45px; 
+    font-family: Alata; 
+    font-weight: 400;
+}
+.card #EmailCpf{
+    width: 43rem;  
+    left: 2rem; 
+    margin-top: 3rem; 
+    position: absolute; 
+    color: #333333; 
+    font-size: 20px; 
+    font-family: 'Alata', sans-serif;
+    font-weight: 400;  
+    word-wrap: break-word
+}
+.card #infoLogin{
+    width: 35rem; 
+    height: 2rem; 
+    left: 2rem; 
+    top: 5rem; 
+    position: absolute;
+    background-color: rgba(113, 116, 116, 0.377);
+    border: none;
+     
+}
+.card #password{
+    width: 43rem;  
+    left: 2rem; 
+    margin-top: 8rem; 
+    position: absolute; 
+    color:#333333; 
+    font-size: 20px; 
+    font-family: 'Alata', sans-serif;
+    font-weight: 400;  
+    word-wrap: break-word;
+}
+.card #senha{
+    width: 35rem; 
+    height: 2rem; 
+    left: 2rem; 
+    top: 10rem; 
+    position: absolute;
+    background-color: rgba(113, 116, 116, 0.377);
+    border: none;
+}
+.botao{
+    width: 43rem; 
+    height: 12.5rem; 
+    left: 0; 
+    top: 25rem; 
+    position: absolute;  
+    background-color: rgb(255, 255, 255); 
+    display: inline-block
+}
+.botao #Entrar{
+
+    color:white;
+    background-color: #008565;
+    width: 15rem; 
+    height: 3rem;
+    position: absolute;
+    margin-left: 14rem;
+    border: none;
+    font-family: 'Alata', sans-serif; 
+    font-size: 20px;
+    text-align: center;
+}
+.botao #MudarSenha{
+    text-decoration: none;
+    color: #333333;
+    margin-left: 17rem;   
+    font-family: 'Alata', sans-serif;
+    display: block;
+    margin-top: 7rem;
+}
+.botao #Cadastrar{
+    text-decoration: none;
+    color: #333333;
+    margin-left: 14rem;   
+    font-family: 'Alata', sans-serif; 
+    display: block;
+    margin-top: 1rem;
+}    
+footer{
+    font-family: 'Alata', sans-serif; 
+    font-size: 12px;
+    margin-top: 38rem;
+    text-align: center;
+}
